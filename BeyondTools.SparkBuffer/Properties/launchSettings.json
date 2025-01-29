@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BeyondTools.SparkBuffer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\EndfieldOut\\Assets\\TextAsset\\TableCfg C:\\EndfieldOut\\TableCfgOutput"
+    }
+  }
+}
